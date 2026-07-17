@@ -1,6 +1,6 @@
 # SL2026
 
-[Ugeskema](https://tinyurl.com/sl2026-ugeprogram-svendborg)
+[Ugeskema](ugeskema.html)
 
 ## Telefonnumre
 | Enhed  | Navn       | CampOS-ID     | Armbåndsnr. | Armbåndskode   | Eget nummer | Mor                      | Far                     |
